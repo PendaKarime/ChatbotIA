@@ -1,0 +1,49 @@
+{
+  "product":[
+    {
+      "id":1,
+      "title":"Moletom Never Stop Lerning-1",
+      "slug":"moletom-never-stop-lerning-1",
+      "price":12000,
+      "image":"/moletom-never-stop-learning 1.png",
+      "desciption":"Camisolas da Zara da ultima geração",
+      "featured":true
+    },
+    {
+      "id":2,
+      "title":"Moletom Never Stop Lerning",
+      "slug":"moletom-never-stop-lerning-2",
+      "price":8000,
+      "image":"/moletom-ai-side.png",
+      "desciption":"",
+      "featured":true
+    },
+    {
+      "id":3,
+      "title":"Moletom Never Stop Lerning",
+      "slug":"moletom-never-stop-lerning-3",
+      "price":13000,
+      "image":"/camiseta-dowhile-2022.png",
+      "desciption":"",
+      "featured":true
+    },
+    {
+      "id":4,
+      "title":"Moletom Never Stop Lerning",
+      "slug":"moletom-never-stop-lerning-4",
+      "price":24000,
+      "image":"/moletom-java.png",
+      "desciption":"",
+      "featured":false
+    },
+    {
+      "id":5,
+      "title":"Moletom Never Stop Lerning",
+      "slug":"moletom-never-stop-lerning-5",
+      "price":80000,
+      "image":"/moletom-ia-p-devs.png",
+      "desciption":"",
+      "featured":false
+    }
+  ]
+}
